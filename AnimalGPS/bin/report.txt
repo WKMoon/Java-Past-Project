@@ -1,0 +1,3 @@
+Species: Gentoo Penguin, Sex: Female, Weight: 11.00, Blood Pressure: 11.00, GPS: 11,11
+Species: California Sealion, Sex: Male, Weight: 12.00, Spots: 12, GPS: 12,12
+Species: Atlantic Walrus, Sex: Male, Weight: 13.00, Dental Health: Poor, GPS: 13,13
